@@ -1,0 +1,3 @@
+C:\Users\AkeemOB\source\repos\Rebuilding Concepts\imgui\misc\fonts\binary_to_compressed_c.cpp
+
+This above caused a to many main functions error. So I didn't include this in project
