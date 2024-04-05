@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xiazen_engine", "Rebuilding Concepts.vcxproj", "{2A662369-BDCF-43F3-A71B-74E25ADB01ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A662369-BDCF-43F3-A71B-74E25ADB01ED}.Debug|x64.ActiveCfg = Debug|x64
+		{2A662369-BDCF-43F3-A71B-74E25ADB01ED}.Debug|x64.Build.0 = Debug|x64
+		{2A662369-BDCF-43F3-A71B-74E25ADB01ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A662369-BDCF-43F3-A71B-74E25ADB01ED}.Debug|x86.Build.0 = Debug|Win32
+		{2A662369-BDCF-43F3-A71B-74E25ADB01ED}.Release|x64.ActiveCfg = Release|x64
+		{2A662369-BDCF-43F3-A71B-74E25ADB01ED}.Release|x64.Build.0 = Release|x64
+		{2A662369-BDCF-43F3-A71B-74E25ADB01ED}.Release|x86.ActiveCfg = Release|Win32
+		{2A662369-BDCF-43F3-A71B-74E25ADB01ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE86DA9-8896-4ECB-B117-069A96E8783E}
+	EndGlobalSection
+EndGlobal

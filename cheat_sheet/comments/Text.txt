@@ -1,0 +1,25 @@
+/*! @brief This function is the callback that sets the framebuffer resize for the specified window.
+ *
+ *  Some Text.
+ *  @param[in] What goes in the function.
+ *  @param[in] Dup - What goes in the function.
+
+ *  @return What happens when you return and any side effects.
+ *
+ *  @callback_signature
+ *  @code
+ *  void function_name(GLFWwindow* window, int width, int height)
+ *  @endcode
+ *  For more information about whatever, see the
+ *  thing.
+ *
+ *  @errors Possible errors include @ref GLFW_NOT_INITIALIZED.
+ *
+ *  @thread_safety This function must only be called from the main thread.
+ *
+ *  @sa @ref window_fbsize
+ *
+ *  @since Added in version ?-0.?-0.
+ *
+ *  @ingroup window
+ */
