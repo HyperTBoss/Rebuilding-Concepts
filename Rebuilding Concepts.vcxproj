@@ -147,10 +147,12 @@
     <ClCompile Include="imgui\misc\cpp\imgui_stdlib.cpp" />
     <ClCompile Include="imgui\misc\freetype\imgui_freetype.cpp" />
     <ClCompile Include="Rebuilding Concepts.cpp" />
+    <ClCompile Include="src\object\temp\object.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="cheat_sheet\comments\Text.txt" />
     <Text Include="cheat_sheet\notes\imgui\Dev_Imgui_Notes.txt" />
+    <Text Include="src\shaders\test.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="imgui\backends\imgui_impl_glfw.h" />
@@ -167,6 +169,13 @@
     <ClInclude Include="imgui\misc\cpp\imgui_stdlib.h" />
     <ClInclude Include="imgui\misc\freetype\imgui_freetype.h" />
     <ClInclude Include="imgui\misc\single_file\imgui_single_file.h" />
+    <ClInclude Include="src\object\temp\object.h" />
+    <ClInclude Include="src\shaders\shader_construct.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\shaders\combine\simple_shaders\simple_fragment_and_vertex.glsl" />
+    <None Include="src\shaders\fragment_shader\shader_fragment.glsl" />
+    <None Include="src\shaders\vertex_shader\shader_vertex.glsl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
